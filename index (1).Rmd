@@ -10,6 +10,7 @@ output:
 # This is Yuqing's awesome website
 
 ![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
-Let add an image
+# Let's add an image
 here's my friend
 ![](my_friend.jpg)
+
