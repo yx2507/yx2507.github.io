@@ -16,4 +16,11 @@ output:
 My name is Yuqing Xue, a second-year MPH student at Columbia University Mailman School of Public Health Department of Epidemiology with a certificate of Applied Biostatistics. I am currently working as a research assistant for Injury Epidemiology research. My job function is data cleaning and statistical programming. I am also the teaching assistant for Research Methods and Application studio, teaching for Quant Labs. I graduated from Peking University in 2018 where I studied Pharmaceutical Sciences and had a double major in Economis.I am currently seeking job postions in counsulting firms or data analyst postion in healthcare industry.
 
 
+# Related website
 
+You can access my Linkdein Profile from this link:
+[Linkdein Profile](https://www.linkedin.com/in/yuqing-xue-342a4b168/)
+
+# My Resume
+
+You can learn more about me through my [resume](resume.html)
