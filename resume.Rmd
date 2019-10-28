@@ -9,13 +9,13 @@ output:
 
 # EDUCATION
 
-**Columbia University in the City of New York**, **New York**, **NY**                                              05/2020
-Master of Public Health, Epidemiology 
+* **Columbia University in the City of New York**, **New York**, **NY**                                              05/2020
+* Master of Public Health, Epidemiology 
 * Certificate in Applied Biostatistics
 * Coursework: Health Economics, Linear & Logistic Regression Model, Analysis of Categorical Data, Accounting and Budgeting                                        
 
-**Peking University**, **Beijing**, **China**                                                                 06/2018                
-Bachelor of Science in Pharmaceutical Sciences & Bachelor of Economics 
+* **Peking University**, **Beijing**, **China**                                                                 06/2018                
+* Bachelor of Science in Pharmaceutical Sciences & Bachelor of Economics 
 * Focus on Clinical Pharmacy
 * Coursework: Econometrics, Macroeconomics, Pharmacokinetics, Pharmacology, Biochemistry, Medical Statistics
 * Honors: Outstanding Graduate of Peking University(1%), Excellent Student Leader, Outstanding Medical Student Scholarship
