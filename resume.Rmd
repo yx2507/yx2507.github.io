@@ -7,6 +7,58 @@ output:
     theme: cerulean
 ---
 
-# Here is my resume
+# EDUCATION
+
+**Columbia University in the City of New York**, **New York**, **NY**                                              05/2020
+Master of Public Health, Epidemiology 
+* Certificate in Applied Biostatistics
+* Coursework: Health Economics, Linear & Logistic Regression Model, Analysis of Categorical Data, Accounting and Budgeting                                        
+
+**Peking University**, **Beijing**, **China**                                                                 06/2018                
+Bachelor of Science in Pharmaceutical Sciences & Bachelor of Economics 
+* Focus on Clinical Pharmacy
+* Coursework: Econometrics, Macroeconomics, Pharmacokinetics, Pharmacology, Biochemistry, Medical Statistics
+* Honors: Outstanding Graduate of Peking University(1%), Excellent Student Leader, Outstanding Medical Student Scholarship
+
+## PROFESSIONAL EXPERIENCE
+* **Columbia University Mailman School of Public Health**, **New York**, **US**                            05/2019-Present
+* Research Assistant
+ * Conducted data cleaning for threes study waves of New York Mammographic Breast Density with SAS 9.0
+ * Created reproductive and infant variables for statistical analysis preparation and did data visualizations
+ * Analyzed the association between breast density and breast cancer risk factors by using adjusted linear regression model
+ * Executed data entry for The Sisters Study including mammographic images reading through Cumulus 6.0 images saving, identified and reviewed information from Access databases 
+ * Examined cost - effectiveness for health policy and analyzed clinical data for QALY calculation by modeling in TreeAge Pro
+ * Conduct literature review and longitudinal analysis for the effect of inappropriate medication on driving safety using R
+ 
+* Frost & Sullivan, Shanghai, China                                                               07/2018- 08/2018
+* Consultant Assistant                                                       
+ * Collected epidemiological data from GLOBOCAN database, and conducted primary and secondary market and customer research from industry research and news report on social media
+ * Analyzed different disease measurement data using quantitative model and made graphs to interpret disease patterns
+ * Extracted and calculated financial data from 30+ annual reports of target companies and client documents
+ * Reviewed and summarized market analyst reports with market size comparison of US and Chinese cancer treatment which was accepted as recommendations to client on listing of medical device company 
+ * Drafted IPO reports for pharmaceutical companies and prepared presentations for stockholder meetings
+
+* Johns on & Johnson, Beijing, China                                                             12/2017- 06/2018
+* Medical Affairs Intern                                               
+ * Assisted medical affairs department in launching medical activities, preparing medical conferences, and editing meeting slides
+ * Corresponded with 50+ experts and doctors for academic meetings and forums
+ * Promoted operational policies for Copy Review Committee by optimizing application procedures on Veeva Vault system
+ * Trained 100+ colleagues in medical department and marketing department on policies and using of Veeva Vault system with flowcharts
+
+* Boston Consulting Group, Shanghai, China
+*Consultant Part-time Assistant (remote)                                                 11/2016-01/2017
+ * Collaborated with a team of 10 members from different fields to complete a medical device company project for a heart treatment market entry case within 2.5 weeks 
+ * Collected and organized data from company financial reports and global databases for healthcare projects
+ * Reviewed policies and clinical reports to select useful information for places to operate clinical trials
+ * Hold interviews with academic experts to collect information on cancer first-line therapy 
+
+## LEADERSHIP/EXTRACURRICULAR ACTIVITIES
+* Case Competition: 1st Prize, 2019 NYC Life Science Case Competition (06/2019); Top 5 Team, 2019 Columbia Graduate Case Competition (04/2019); 
+* Leadership: Chair, Student Union of Peking University (10/2015 – 05/2018) 
+
+## SKILLS
+** Computer Skills  SAS, R, SQL, STATA, MS Word, Excel and PowerPoint 
+** Languages  Chinese (Native), English (Fluent) 
+** Certifications  SAS Base & SAS Advanced Programmer, CITI Human Subject Protection, HIPAA Practice Patient Privacy
 
 
