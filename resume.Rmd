@@ -4,7 +4,7 @@ output:
   html_document:
     toc: true
     toc_float: true
-    theme: cerulean
+   
 ---
 
 # EDUCATION
@@ -30,7 +30,7 @@ Bachelor of Science in Pharmaceutical Sciences & Bachelor of Economics
  * Examined cost - effectiveness for health policy and analyzed clinical data for QALY calculation by modeling in TreeAge Pro
  * Conduct literature review and longitudinal analysis for the effect of inappropriate medication on driving safety using R
  
-* Frost & Sullivan, Shanghai, China                                                               07/2018- 08/2018
+* **Frost & Sullivan**, **Shanghai, **China**                                                               07/2018- 08/2018
 * Consultant Assistant                                                       
  * Collected epidemiological data from GLOBOCAN database, and conducted primary and secondary market and customer research from industry research and news report on social media
  * Analyzed different disease measurement data using quantitative model and made graphs to interpret disease patterns
@@ -38,14 +38,14 @@ Bachelor of Science in Pharmaceutical Sciences & Bachelor of Economics
  * Reviewed and summarized market analyst reports with market size comparison of US and Chinese cancer treatment which was accepted as recommendations to client on listing of medical device company 
  * Drafted IPO reports for pharmaceutical companies and prepared presentations for stockholder meetings
 
-* Johns on & Johnson, Beijing, China                                                             12/2017- 06/2018
+* **Johns on & Johnson**, **Beijing**, **China**                                                             12/2017- 06/2018
 * Medical Affairs Intern                                               
  * Assisted medical affairs department in launching medical activities, preparing medical conferences, and editing meeting slides
  * Corresponded with 50+ experts and doctors for academic meetings and forums
  * Promoted operational policies for Copy Review Committee by optimizing application procedures on Veeva Vault system
  * Trained 100+ colleagues in medical department and marketing department on policies and using of Veeva Vault system with flowcharts
 
-* Boston Consulting Group, Shanghai, China
+* **Boston Consulting Group**, **Shanghai**, **China**
 *Consultant Part-time Assistant (remote)                                                 11/2016-01/2017
  * Collaborated with a team of 10 members from different fields to complete a medical device company project for a heart treatment market entry case within 2.5 weeks 
  * Collected and organized data from company financial reports and global databases for healthcare projects
